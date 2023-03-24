@@ -1,3 +1,7 @@
+# Java exercise
+
+This repository is an study on Java. To practice class creation I`ve decided to imagine the creaation of two classes based on a school program, bringing information about a student and his subjects.
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
