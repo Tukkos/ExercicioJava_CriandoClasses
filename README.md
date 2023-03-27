@@ -1,6 +1,6 @@
 # Java exercise
 
-This repository is an study on Java. To practice class creation I`ve decided to imagine the creaation of two classes based on a school program, bringing information about a student and his subjects.
+This repository is an study on Java. To practice class creation I`ve decided to imagine the creation of two classes based on a school program, bringing information about a student and his subjects.
 
 ## Getting Started
 
